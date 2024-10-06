@@ -10,7 +10,7 @@
 <header>
     <h1>I Value your Feedback</h1>
     <nav>
-        <button onclick="location.href='home.html'">Home Page</button>
+        <button onclick="location.href='index.html'">Home Page</button>
         <button onclick="location.href='calendar.html'">Your Calendar</button>
     </nav>
 </header>
